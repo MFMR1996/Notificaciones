@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+		<Button id="notif" onClick="notificar"></Button>
+	</Window>
+</Alloy>
